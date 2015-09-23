@@ -17,7 +17,7 @@ Slim Views only officially support the following views listed below.
 Install in your project by running the following composer command:
 
 ```bash
-$ php composer require slim/views
+$ composer require slim/views
 ```
 
 ## Smarty
